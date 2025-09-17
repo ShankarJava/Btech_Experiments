@@ -1,4 +1,4 @@
-package com.app.btech.exxperiments.trafficsignals;
+package com.app.btech.experiments.trafficsignals;
 
 import javax.swing.*;
 import java.awt.*;
