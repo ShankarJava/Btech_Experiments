@@ -19,7 +19,10 @@
     1. Create a doubly linked list of elements.  
     2.Delete a given element from the above list.  
     3.Display the contents of the list after deletion. 
-7.
+7.  To write a Java program that simulates a traffic light, the program lets the user select one of 
+    three lights, red, yellow, or green, with radio buttons. On selecting a button, an appropriate 
+    message with STOP or READY or GO should appear above the buttons in selected color. 
+    Initially, there is no message shown. 
 8.
 9.
 10.
