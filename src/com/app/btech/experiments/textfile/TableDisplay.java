@@ -6,6 +6,7 @@ import java.io.*;
 import java.util.*;
 
 public class TableDisplay extends JFrame {
+	
     public TableDisplay() {
         setTitle("Table Display from File");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
